@@ -6,12 +6,6 @@
 <h5 align="center">Aquí presentaré mis proyectos y mi progreso a través de la especialidad de software.
 <p><sup><sub>Aún estoy estudiando por lo que es posible que algunos proyectos sean muy sencillos :P</sub></sup></h5>
 
-## Tecnologías:
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
-[![GitHUb](https://img.shields.io/badge/GitHUb-FC6D26?style=for-the-badge&logo=GitHUb&logoColor=white&labelColor=101010)]()
-[![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white&labelColor=101010)]()
-
 ## Logros:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JosueAhGarciaxd&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
